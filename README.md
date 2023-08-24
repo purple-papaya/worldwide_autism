@@ -6,7 +6,6 @@ Autism Spectrum Disorder (ASD) represents a significant global health concern wi
 
 Source: 
 https://ghdx.healthdata.org/gbd-2019 (accessed Aug 23, 2023)
-http://data.un.org/Data.aspx?d=POP&f=tableCode%3a22&c=2,3,8,10,16&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1 (accessed Aug 23, 2023)
 
 What's included:
  - all GBD causes,
