@@ -9,29 +9,18 @@ https://ghdx.healthdata.org/gbd-2019 (accessed Aug 23, 2023)
 
 What's included:
  - all GBD causes,
- - measures: deaths, disability-adjusted life years (DALYs), prevalence, incidence
- - metrics (units): number, rate, percent, years, probability of death
+ - measures: prevalence, incidence
+ - metrics (units): number, rate, percent, years
  - years: 1990-2019; annual results for all measures
  - all GBD age groups
- - sexes: males, females, both sexes
+ - sexes: males, females
  - locations: GBD countries
 
 # Metrics
 
- ### Probability of death
  ### Disability-adjusted life years (DALYs)
 
 **Disability-Adjusted Life Years (DALYs)** is a measure used in public health to quantify the overall burden of disease. It combines the years of life lost due to premature mortality (YLL) and the years lived with disability (YLD) for a particular disease or injury. In essence, one DALY represents one lost year of "healthy" life.
-
-To break it down:
-
-**Years of Life Lost (YLL)**: This accounts for the years of life lost due to premature death. It is calculated by taking the difference between the standard life expectancy at the age of death and the actual age at death.
-
-**Years Lived with Disability (YLD)**: This accounts for the years a person lives with a disability, adjusted for the severity of that disability. For instance, a year lived with a severe disability might count as a larger fraction of a DALY than a year lived with a milder disability.
-
-When you add YLL and YLD together for a specific disease or health condition, you get the total DALYs for that condition.
-
-The concept of DALYs was developed in the 1990s as a part of the Global Burden of Disease (GBD) study. The purpose was to provide a comprehensive view of the health impact of diseases and injuries across the globe. By using DALYs, policymakers, researchers, and healthcare professionals can prioritize health interventions based on the overall disease burden, rather than merely focusing on mortality or morbidity alone. This ensures that conditions which may not be fatal but have significant impacts on the quality of life (like chronic pain or mental health disorders) are also considered when allocating resources and planning interventions.
 
 ### Prevalence
 
